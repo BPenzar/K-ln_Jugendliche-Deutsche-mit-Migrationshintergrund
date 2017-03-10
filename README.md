@@ -1,4 +1,4 @@
-# Koeln -- jugendliche Deutsche mit Migrationshintergrund
+# Koeln -- Jugendliche Deutsche mit Migrationshintergrund
 
 Ein mit QGis erstelltes Geoinformationssystem, zur Verdeutlichung der Verteilung und Entwicklung jugendlicher Deutscher mit Migrationshintergrund in der Stadt Köln.
 
